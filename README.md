@@ -3,17 +3,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-00f5d4?style=for-the-badge&logoColor=04080f" alt="Status Online" />
   <img src="https://img.shields.io/badge/Disponível_para-Contratação_Imediata-10b981?style=for-the-badge" alt="Disponível para Contratação" />
-  <img src="https://img.shields.io/badge/Formação-ADS_Concluído-00b4ff?style=for-the-badge" alt="ADS" />
+  <img src="https://img.shields.io/badge/Formação-ADS_&_Instrumentação_Industrial-00b4ff?style=for-the-badge" alt="ADS e Instrumentação" />
 </p>
 
 <p align="center">
   <strong>Desenvolvedor Front-End & Analista de Sistemas</strong><br>
-  Graduado em Análise e Desenvolvimento de Sistemas (ADS) com mais de 18 anos de sólida trajetória técnica em TI, infraestrutura de ERPs e calibração industrial.
+  Graduado em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Instrumentação Industrial. Sólida experiência profissional com mais de 4 anos em TI (sistemas ERP, suporte, infraestrutura e banco de dados) e mais de 15 anos em calibração e manutenção preventiva/corretiva de instrumentos de medição e processo, integrando tecnologia de ponta no ecossistema Front-End e Mobile (React, TypeScript, Java e outros).
 </p>
 
 <p align="center">
   🌐 <strong>Acesse o Portfólio Online:</strong><br>
-  <a href="https://niltondev-web.github.io/portifolioReal/"><strong>https://niltondev-web.github.io/portifolioReal/</strong></a>
+  <a href="https://niltondev-web.github.io/portifoliojnilton/"><strong>https://niltondev-web.github.io/portifoliojnilton/</strong></a>
 </p>
 
 ---
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Capacitor_(Android_APK)-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
@@ -38,7 +39,7 @@
 
 - 🎨 **Visual Dark Neon / Cyberpunk:** Identidade visual moderna com gradientes HSL (*Teal `#00f5d4`*, *Pink `#f900ff`*, *Blue `#00b4ff`*), contrastes calibrados e tipografia display (*Orbitron*, *Fira Code* e *Inter*).
 - ⚡ **Canvas Interativo de Circuitos:** Animação leve e fluida em segundo plano utilizando HTML5 Canvas e partículas reativas.
-- 🎯 **Card de Resumo Executivo para Recrutadores:** Métricas-chave de experiência, formação superior e especialidades técnicas visíveis nos primeiros 6 segundos de navegação.
+- 🎯 **Card de Resumo Executivo para Recrutadores:** Métricas-chave de experiência, formação superior (ADS + Instrumentação Industrial) e especialidades técnicas visíveis nos primeiros 6 segundos de navegação.
 - 📱 **Mobile-First & Responsivo:** Layout adaptável para smartphones, tablets e monitores ultrawide, com menu hambúrguer dinâmico.
 - 📋 **Recursos de Alta Conversão:**
   - Botão de contato direto via **WhatsApp** com mensagem contextualizada.
@@ -61,7 +62,7 @@
 ## 🗂️ Estrutura de Arquivos
 
 ```text
-portifolioReal/
+portifoliojnilton/
 ├── index.html                  # Arquivo principal (ponto de entrada para GitHub Pages e Vercel)
 ├── jose_nilton_portfolio.html  # Cópia de trabalho do portfólio
 ├── README.md                   # Documentação completa do projeto
@@ -76,11 +77,11 @@ Como o projeto é construído em HTML5, CSS3 e JavaScript puro (Vanilla), você 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/NiltonDev-Web/portifolioReal.git
+   git clone https://github.com/NiltonDev-Web/portifoliojnilton.git
    ```
 2. Abra a pasta do projeto:
    ```bash
-   cd portifolioReal
+   cd portifoliojnilton
    ```
 3. Abra o arquivo `index.html` em qualquer navegador (dê um duplo clique ou use a extensão **Live Server** no VS Code).
 
@@ -97,5 +98,5 @@ Como o projeto é construído em HTML5, CSS3 e JavaScript puro (Vanilla), você 
 ---
 
 <p align="center">
-  Desenvolvido por <strong>José Nilton</strong> • Graduado em ADS • &copy; 2026
+  Desenvolvido por <strong>José Nilton</strong> • Graduado em ADS & Técnico em Instrumentação Industrial • &copy; 2026
 </p>
