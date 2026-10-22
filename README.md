@@ -2,13 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-00f5d4?style=for-the-badge&logoColor=04080f" alt="Status Online" />
-  <img src="https://img.shields.io/badge/Disponível_para-Contratação_Imediata-10b981?style=for-the-badge" alt="Disponível para Contratação" />
-  <img src="https://img.shields.io/badge/Formação-ADS_&_Instrumentação_Industrial-00b4ff?style=for-the-badge" alt="ADS e Instrumentação" />
+  <img src="https://img.shields.io/badge/Disponível_para-Presencial,_Remoto_ou_Híbrido-10b981?style=for-the-badge" alt="Disponibilidade" />
+  <img src="https://img.shields.io/badge/Formação-ADS_&_Automação_e_Instrumentação-00b4ff?style=for-the-badge" alt="ADS e Automação" />
 </p>
 
 <p align="center">
   <strong>Desenvolvedor Front-End & Analista de Sistemas</strong><br>
-  Graduado em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Instrumentação Industrial. Sólida experiência profissional com mais de 4 anos em TI (sistemas ERP, suporte, infraestrutura e banco de dados) e mais de 15 anos em calibração e manutenção preventiva/corretiva de instrumentos de medição e processo, integrando tecnologia de ponta no ecossistema Front-End e Mobile (React, TypeScript, Java e outros).
+  Graduado em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Automação e Instrumentação Industrial. Sólida experiência profissional com mais de 4 anos em TI (sistemas ERP, suporte, infraestrutura, banco de dados e relatórios) e mais de 15 anos com calibração e manutenção preventiva/corretiva de instrumentos de medição e processos industriais (Teclabor, Trescal e Controlibra), integrando soluções modernas no ecossistema Front-End e Mobile (React, TypeScript, Java, Figma e outros).
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Capacitor_(Android_APK)-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git" />
 </p>
@@ -93,10 +94,10 @@ Como o projeto é construído em HTML5, CSS3 e JavaScript puro (Vanilla), você 
 - 🐙 **GitHub:** [github.com/NiltonDev-Web](https://github.com/NiltonDev-Web)
 - 💬 **WhatsApp:** [(81) 99165-4555](https://wa.me/5581991654555)
 - ✉️ **E-mail:** [jose.nilton2611@gmail.com](mailto:jose.nilton2611@gmail.com)
-- 📍 **Localização:** Campina Grande – PB *(Disponível para vagas Remotas ou Híbridas)*
+- 📍 **Localização:** Campina Grande – PB *(Disponível para vagas Presenciais, Remotas ou Híbridas)*
 
 ---
 
 <p align="center">
-  Desenvolvido por <strong>José Nilton</strong> • Graduado em ADS & Técnico em Instrumentação Industrial • &copy; 2026
+  Desenvolvido por <strong>José Nilton</strong> • Graduado em ADS & Técnico em Automação e Instrumentação Industrial • &copy; 2026
 </p>
